@@ -27,7 +27,6 @@ a{
 .logo-border{
     width:180px;
     height: 215px;
-    background-color: white;
     background-image: url("logo.jpg");
     background-size: cover;
 }
