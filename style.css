@@ -33,7 +33,7 @@ a{
 .navbar{
     height:432px;
     background-color:#f8ede9;
-}c
+}
 .nav-home{
     display: flex;
     justify-content:space-evenly;
@@ -82,8 +82,10 @@ a{
     margin-left: 58px;
     width:132px;
     height:39px;
-    color:white;
     background-color: black;
+}
+.wed{
+    color:white;
 }
 .book-border{
     width:355px;
